@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Appont-dasb
+- 👋 Hi, I’m Appont-dasb
 - 👀 I’m interested in C/C++ .
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on C .
